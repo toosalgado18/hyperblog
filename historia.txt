@@ -2,4 +2,5 @@ Hola, mi nombre es Miguel.
 
 Tengo 23 años, vivo en la CDMX y soy SysOps
 
+mUCHJOS BUGS
 Estudié una maestría en seguridad.
